@@ -5,6 +5,7 @@
 // @author original java code by Aj prasan @ECP Rmuit kkc
 // convert code to c by Thanapun Thongjurai @ECP1N Rmuit kkc
 // test and arrange c code by Nonthwat zaza @ECP1N Rmuit kkc
+// source code นี้มีจุดประสงค์ให้ใช้เป็นแนวทางในการเขียนโค้ดเท่านั้น แนะนำว่าให้เขียนโค้ดด้วยตัวเองดีกว่า^-^ (ถึงไม่ได้เขียนเองทั้งหมด(ผมก็เหมือนกัน) ก็ไม่เป็นไร ขอให้เข้าใจหลักการของโค้ด เดียวก็จะเขียนได้เอง(ถ้าเขียนเองเวลาอธิบายโค้ดจะง่ายกว่ากันเยอะ^^)  ด้วยความปรารถนาดีจากNonthwat zaza 23/2/2019 11:12 PM
 
 void LCDPRINTF(int length ,char Number[]);
 
